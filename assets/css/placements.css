@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to bottom right, black, grey);
+    color: lightgrey;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, h1{
+    color: lightgrey;
+    font-family: 'Open Sans', sans-serif;
+}
