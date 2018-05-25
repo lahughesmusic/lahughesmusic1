@@ -8,3 +8,35 @@ p, h1{
     color: lightgrey;
     font-family: 'Open Sans', sans-serif;
 }
+
+img{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+}
+
+#blue{
+    width: 300px;
+    height: 400px;
+}
+
+#winter{
+    width: 450px;
+    height: 300px;
+}
+
+#curse{
+    width: 500px;
+    height: 300px;
+}
+
+#mother{
+    width: 300px;
+    height: 450px;
+}
+
+#killer{
+    width: 500px;
+    height: 300px;
+}
+
