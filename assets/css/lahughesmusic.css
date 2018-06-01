@@ -1,3 +1,9 @@
+body {
+    background: linear-gradient(to bottom right, black, grey);
+    color: lightgrey;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .jumbotron-fluid{
 
     background-color: black;
@@ -6,24 +12,15 @@
   
 }
 
-body{
-    background: linear-gradient(to bottom right, black, grey);
-}
-
 .carousel-item{
     margin: 0 auto;
 }
 
 
-body {
-    background: linear-gradient(to bottom right, black, grey);
-    color: lightgrey;
-    font-family: 'Open Sans', sans-serif;
-}
 
 p, h1{
     color: lightgrey;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
 }
 
 img{
